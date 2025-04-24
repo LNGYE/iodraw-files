@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m5COdc8sV79w0ptRlgWp-73" value="Prompt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="425" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m5COdc8sV79w0ptRlgWp-75" value="Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="50" height="30" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="25" y="60" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m5COdc8sV79w0ptRlgWp-83" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="480" y="350" width="80" height="210" as="geometry" />
+          <mxGeometry x="500" y="350" width="80" height="210" as="geometry" />
         </mxCell>
         <mxCell id="m5COdc8sV79w0ptRlgWp-84" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="m5COdc8sV79w0ptRlgWp-83">
           <mxGeometry width="80" height="210" as="geometry" />
