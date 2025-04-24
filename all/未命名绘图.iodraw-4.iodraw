@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="m5COdc8sV79w0ptRlgWp-123" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="430" height="300" as="geometry" />
+        </mxCell>
         <mxCell id="m5COdc8sV79w0ptRlgWp-75" value="Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="50" height="30" as="geometry" />
         </mxCell>
@@ -73,8 +76,8 @@
         <mxCell id="m5COdc8sV79w0ptRlgWp-122" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="520" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m5COdc8sV79w0ptRlgWp-123" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="380" width="490" height="310" as="geometry" />
+        <mxCell id="m5COdc8sV79w0ptRlgWp-124" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="219" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
