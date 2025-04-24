@@ -86,7 +86,7 @@
           <mxGeometry x="520" y="240" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5COdc8sV79w0ptRlgWp-130" value="Probing classifiers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="269" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m5COdc8sV79w0ptRlgWp-131" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="660" y="400" width="80" height="260" as="geometry" />
