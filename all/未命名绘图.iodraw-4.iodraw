@@ -138,8 +138,10 @@
         <mxCell id="m5COdc8sV79w0ptRlgWp-153" value="Last Toekn Hidden State" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="690" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m5COdc8sV79w0ptRlgWp-155" value="Probing classifier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="760" width="120" height="60" as="geometry" />
+        <mxCell id="m5COdc8sV79w0ptRlgWp-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="m5COdc8sV79w0ptRlgWp-148">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="790.0000000000002" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
