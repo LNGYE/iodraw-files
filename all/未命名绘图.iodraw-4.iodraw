@@ -46,7 +46,7 @@
         <mxCell id="m5COdc8sV79w0ptRlgWp-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="370" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m5COdc8sV79w0ptRlgWp-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m5COdc8sV79w0ptRlgWp-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="340" y="380" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
