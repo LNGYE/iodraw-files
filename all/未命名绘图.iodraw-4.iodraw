@@ -141,6 +141,9 @@
         <mxCell id="m5COdc8sV79w0ptRlgWp-146" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="520" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="m5COdc8sV79w0ptRlgWp-153" value="Last Toekn Hidden State" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="338" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
