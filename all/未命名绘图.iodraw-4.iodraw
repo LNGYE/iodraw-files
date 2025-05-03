@@ -136,7 +136,7 @@
           <mxGeometry x="600" y="520" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m5COdc8sV79w0ptRlgWp-153" value="Select Last Toekn Hidden State" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="690" width="190" height="30" as="geometry" />
+          <mxGeometry x="550" y="700" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
