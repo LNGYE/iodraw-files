@@ -7,6 +7,9 @@
         <mxCell id="YKeuMC4TDumVt2Y7h1DH-1" value="From Inputs to Mechanisms: A Survey of Multi-Level Interpretability in Vision-Language Models" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-250" y="546" width="582.81" height="38.13" as="geometry" />
         </mxCell>
+        <mxCell id="YKeuMC4TDumVt2Y7h1DH-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
